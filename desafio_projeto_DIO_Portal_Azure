@@ -1,0 +1,31 @@
+# Desafio Azure Speech e Language Studio - DIO
+
+## Descrição do Projeto
+Este repositório contém a documentação e os materiais produzidos durante o desafio da DIO, cujo objetivo foi explorar e aplicar as ferramentas **Azure Speech Studio** e **Azure Language Studio** para análise de fala e linguagem natural. O desafio visa aprofundar o conhecimento prático em soluções de inteligência artificial voltadas para voz e linguagem.
+
+## Objetivos
+- Entender o funcionamento do Azure Speech Studio e Language Studio.
+- Praticar a análise de áudio, conversão texto-fala, reconhecimento de fala e análise de sentimentos.
+- Documentar todo o processo para fins de estudo e portfólio técnico.
+- Aprender a usar o GitHub para organizar e compartilhar projetos técnicos.
+
+## Ferramentas Utilizadas
+- [Azure Speech Studio](https://azure.microsoft.com/services/cognitive-services/speech-services/)
+- [Azure Language Studio](https://azure.microsoft.com/services/cognitive-services/language-service/)
+- Git e GitHub para versionamento e hospedagem do projeto.
+
+## Passos Realizados
+1. Assisti a todas as videoaulas disponibilizadas pela DIO sobre Azure Speech e Language Studio.
+2. Testei a criação e configuração de serviços no Azure para análise de fala.
+3. Realizei exemplos práticos de reconhecimento de fala e conversão texto-para-fala.
+4. Explorei as funcionalidades de análise de sentimentos e extração de insights em textos.
+5. Documentei todo o processo neste repositório.
+
+## Aprendizados e Insights
+- Compreendi como os modelos de IA do Azure facilitam o processamento de voz e texto.
+- Entendi a importância de documentar o processo para replicabilidade e aprendizado.
+- A prática com ferramentas reais ajuda a fixar conceitos teóricos vistos nas aulas.
+
+Foi muito produtivo as aulas pra entender como até mesmo coisas tão bobas como algoritmo e escuta passiva são realizadas por IA's e não apenas modelos ativos como ChatGPT.
+---
+**Projeto realizado para o curso de Python ofertado pela Suzano através da DIO.**
